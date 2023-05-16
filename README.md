@@ -6,4 +6,4 @@
 
 
 #### Overview
-Welcome to the USA National Parks Finder application! This app is designed to help you find the number of national parks by state and also gives you the address, a short description, directions, and hours of operation for each national park.
+This holy grail is a basic web page layout which has multiple equal-height columns that are defined with style sheets. It is commonly desired and implemented, but for many years, the various ways in which it could be implemented with available technologies all had drawbacks.Because of this, finding an optimal implementation was likened to searching for the elusive Holy Grail.
