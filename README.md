@@ -1,7 +1,8 @@
-# UNITED STATES NATIONAL PARKS FINDER
+# Holy Grail Layout
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![Screen Shot 2023-05-16 at 5 47 20 AM](https://github.com/Oscar-Santos/holy_grail_layout/assets/83252572/47bf6495-709e-47f2-b7cc-20f8335ad170)
 
-![image_1](https://user-images.githubusercontent.com/83252572/233377821-faeb2f79-c221-42c2-9cc8-cfa97100e0a8.jpeg)
+
 
 
 #### Overview
